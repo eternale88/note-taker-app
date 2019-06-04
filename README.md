@@ -1,9 +1,8 @@
-# note-taker-app
-Built with HTML5 CSS3 and ES6 Javascript
+
 Hosted here on Netlify [https://zealous-yonath-3aa0b6.netlify.com/]
 
 
-# colorPicker
+# Note Taker
 ## Synopsis
 
 A note taking app I  built with HTML5, CSS3, and Vanilla JavaScript
