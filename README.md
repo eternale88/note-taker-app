@@ -5,7 +5,7 @@ Hosted here on Netlify [https://cranky-mcclintock-7377f3.netlify.com/]
 # Note Taker
 ## Synopsis
 
-A note taking app I  built with HTML5, CSS3, Vanilla JavaScript, Babel, Webpack, JavaScript Modules, and Third Party Libraries. Webpack repo will be added soon, current is built with HTML, CSS, and JS, the netlify is the webpack build.
+A note taking app I  built with HTML5, CSS3, Vanilla JavaScript, Babel, Webpack, JavaScript Modules, and Third Party Libraries. Webpack repo will be added soon, current is built with HTML, CSS, and JS, the netlify link is the deployed webpack build.
 
 ## Motivation
 
